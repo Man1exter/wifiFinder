@@ -10,5 +10,5 @@ for i in profiles:
         except IndexError:
             print("{:<30}| {:<}".format(i,""))
     except subprocess.CalledProcessError:
-        print("{:<30}| {:<}".format(i,"ERROR"))
+        print("{:<30}| {:<}".format(i,"ERROR ERROR"))
 input("")
