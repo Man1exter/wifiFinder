@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T18:12:03.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qDiRvBqVJBAvJz-stg_w" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T18:33:47.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="06a43bRRm8l0i1QDGHnD" version="15.8.3" type="github">
   <diagram id="DCj6fyPtO9dtdVWTwL5u" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_zhKjU9ZLIpcWmoScKFP-1" value="WSTĘPNE USTALENIA:&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="210" height="30" as="geometry" />
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-1" value="WYMAGANIA PODSTAWOWE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="10" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_zhKjU9ZLIpcWmoScKFP-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Rozmiar bazy danych : możliwość obsługi 20 000 klientów&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry y="40" width="320" height="50" as="geometry" />
+          <mxGeometry y="35" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_zhKjU9ZLIpcWmoScKFP-3" value="W przypadku błędu system nie przestaje działać" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="80" width="270" height="20" as="geometry" />
@@ -21,6 +21,42 @@
         </mxCell>
         <mxCell id="_zhKjU9ZLIpcWmoScKFP-6" value="Bezpieczeństwo (weryfikacja)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="200" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;WYMAGANIA BEZPIECZEŃSTWA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="414" y="15" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Podwójna weryfikacja konta użytkownika&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="35" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-9" value="Weryfikacja, gdy dojdzie do logowania z innego urządzenia&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-10" value="Automatyczny zapis kroków co 5min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="414" y="120" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;WYMAGANIA UŻYTECZNOŚCI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="330" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-12" value="WYMAGANIA KOSZTOWNOŚCI&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="325" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-13" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Wykupienie jednorazowej licencji użytkowania&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-14" value="Maksymalny czas wdrożenia do systemu - do 30min&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="360" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-15" value="Bez żadnych innych operacji w tle&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-16" value="Tylko ważna informacja wyskakująca na ekranie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="440" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-17" value="Prosty i czytelny interfejs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="480" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-18" value="Możliwość uruchomienia na każdym sprzęcie, pod warunkiem przejścia weryfikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="520" width="450" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
