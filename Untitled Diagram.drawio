@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T17:58:12.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="15.8.3" etag="qluaB627VFbVrVR2vIBH" type="github"><diagram id="DCj6fyPtO9dtdVWTwL5u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-28T18:12:03.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qDiRvBqVJBAvJz-stg_w" version="15.8.3" type="github">
+  <diagram id="DCj6fyPtO9dtdVWTwL5u" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-1" value="WSTĘPNE USTALENIA:&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Rozmiar bazy danych : możliwość obsługi 20 000 klientów&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="40" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-3" value="W przypadku błędu system nie przestaje działać" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="80" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-4" value="Płynność w obsłudze" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="120" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-5" value="Prosty system rejestracji i logowania" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="160" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhKjU9ZLIpcWmoScKFP-6" value="Bezpieczeństwo (weryfikacja)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="200" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
